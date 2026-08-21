@@ -33,4 +33,4 @@ jupyter notebook proj_cancer_detection.ipynb
 
 ---
 
-More of my work: [shahzaibbuilds.me](https://shahzaibbuilds.me) · [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/)
+More of my work: [shahzaibbuilds.me](https://shahzaibbuilds.me) · [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai-developer/)
